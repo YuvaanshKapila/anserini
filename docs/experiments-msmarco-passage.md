@@ -352,7 +352,7 @@ As mentioned above, the BM25 run with `k1=0.82`, `b=0.68` corresponds to the ent
 The BM25 run with default parameters `k1=0.9`, `b=0.4` roughly corresponds to the entry "BM25 (Anserini)" dated 2019/04/10 (but Anserini was using Lucene 7.6 at the time).
 
 ## Reproduction Log[*](reproducibility.md)
-
++ Results reproduced by [@YuvaanshKapila](https://github.com/YuvaanshKapila) on 2025-06-08 (commit [`17bd9acf`](https://github.com/castorini/anserini/commit/17bd9acff9109589e6f9d3bfd0a7e867577930cd))
 + Results reproduced by [@ronakice](https://github.com/ronakice) on 2019-08-12 (commit [`5b29d16`](https://github.com/castorini/anserini/commit/5b29d1654abc5e8a014c2230da990ab2f91fb340))
 + Results reproduced by [@MathBunny](https://github.com/MathBunny) on 2019-08-12 (commit [`5b29d16`](https://github.com/castorini/anserini/commit/5b29d1654abc5e8a014c2230da990ab2f91fb340))
 + Results reproduced by [@JMMackenzie](https://github.com/JMMackenzie) on 2020-01-08 (commit [`f63cd22`](https://github.com/castorini/anserini/commit/f63cd2275fa5a9d4da2d17e5f983a3308e8b50ce ))
